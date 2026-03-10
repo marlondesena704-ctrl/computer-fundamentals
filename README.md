@@ -1,129 +1,140 @@
 # Computer Fundamentals 💻
 
-Este repositório contém resumos e anotações de estudo sobre **fundamentos da computação**, organizados por temas como hardware, redes, sistemas e cloud computing.
+![Hardware](https://img.shields.io/badge/Hardware-Computer%20Architecture-blue)
+![Networking](https://img.shields.io/badge/Networking-Network%20Fundamentals-green)
+![Cloud](https://img.shields.io/badge/Cloud-Computing-orange)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Diagnostics-red)
 
-Os conteúdos foram organizados a partir de uma playlist educacional com **36 vídeos sobre informática e infraestrutura de TI**.
+Este repositório contém **resumos e anotações sobre fundamentos da computação**, organizados por temas como hardware, redes, cloud computing e troubleshooting.
+
+O objetivo é documentar conceitos importantes utilizados em **infraestrutura moderna de TI**.
 
 ---
 
-# 📚 Conteúdo do Repositório
+# 📚 Índice
 
-##
+- [Hardware](#hardware)
+- [Redes](#redes)
+- [Cloud Computing](#cloud-computing)
+- [Sistemas](#sistemas)
+- [Troubleshooting](#troubleshooting)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Objetivo](#objetivo)
 
-- 📦 [Hardware](hardware/)
-- 🌐 [Redes](redes/)
-- ☁️ [Cloud](cloud/)
-- 🖥️ [Sistemas](sistemas/)
-- 🛠️ [Troubleshooting](troubleshooting/)
+---
 
-##
+# 💻 Hardware
 
-## Hardware
-Conceitos sobre componentes físicos do computador.
+Conceitos sobre os componentes físicos do computador.
 
-- CPU (processadores, núcleos e overclock)
+Conteúdos:
+
+- CPU e processadores
 - Placa-mãe
 - Memória RAM
 - Armazenamento (HD, SSD, M.2)
 - Montagem de computadores
 
-📂 pasta: `hardware`
+📂 Pasta: `hardware`
 
 ---
 
-## Redes
-Fundamentos de redes e comunicação entre dispositivos.
+# 🌐 Redes
+
+Fundamentos de redes de computadores.
+
+Conteúdos:
 
 - Wi-Fi
 - IP e DHCP
 - Diagnóstico de rede
-- Protocolos de internet
+- Protocolos de comunicação
 - Port forwarding
 
-📂 pasta: `redes`
+📂 Pasta: `redes`
 
 ---
 
-## Cloud Computing
-Introdução à computação em nuvem.
+# ☁️ Cloud Computing
 
-- O que é cloud computing
-- Modelos SaaS, PaaS e IaaS
+Introdução à computação em nuvem e infraestrutura.
+
+Conteúdos:
+
 - Servidores
+- Computação em nuvem
+- Modelos SaaS, PaaS e IaaS
 
-📂 pasta: `cloud`
+📂 Pasta: `cloud`
 
 ---
 
-## Sistemas
-Funcionamento básico de sistemas e inicialização.
+# 🖥️ Sistemas
+
+Funcionamento do sistema e armazenamento.
+
+Conteúdos:
 
 - BIOS e UEFI
 - Partições de disco
-- GPT vs MBR
+- MBR vs GPT
 
-📂 pasta: `sistemas`
+📂 Pasta: `sistemas`
 
 ---
 
-## Troubleshooting
-Diagnóstico e solução de problemas comuns.
+# 🛠️ Troubleshooting
+
+Diagnóstico e solução de problemas.
+
+Conteúdos:
 
 - Tela azul (BSOD)
-- Erros ao montar PC
+- Erros de hardware
 - Backup de dados
 - Problemas na instalação do Windows
 
-📂 pasta: `troubleshooting`
+📂 Pasta: `troubleshooting`
 
 ---
 
-# 🧠 Conteúdos estudados
-
-Este repositório aborda conceitos importantes como:
-
-- Arquitetura de computadores
-- Montagem e manutenção de hardware
-- Funcionamento de redes
-- Protocolos de comunicação
-- Infraestrutura de servidores
-- Computação em nuvem
-- Diagnóstico de problemas
+# 📁 Estrutura do projeto
 
 ---
 ```
-# 🗂 Estrutura do projeto
 computer-fundamentals
 │
 ├── README.md
 │
 ├── hardware
-│   ├── cpu.md
-│   ├── motherboard.md
-│   ├── ram.md
-│   ├── storage.md
-│   └── pc-assembly.md
+│ ├── cpu.md
+│ ├── motherboard.md
+│ ├── ram.md
+│ ├── storage.md
+│ └── pc-assembly.md
 │
 ├── redes
-│   ├── wifi.md
-│   ├── ip-dhcp.md
-│   ├── network-diagnostics.md
-│   ├── port-forwarding.md
-│   └── protocols.md
+│ ├── wifi.md
+│ ├── ip-dhcp.md
+│ ├── network-diagnostics.md
+│ ├── port-forwarding.md
+│ └── protocols.md
 │
 ├── cloud
-│   ├── cloud-computing.md
-│   └── cloud-models.md
+│ ├── cloud-computing.md
+│ └── cloud-models.md
 │
 ├── sistemas
-│   ├── bios-uefi.md
-│   └── disk-partitions.md
+│ ├── bios-uefi.md
+│ └── disk-partitions.md
 │
 └── troubleshooting
 ├── blue-screen.md
 ├── hardware-mistakes.md
 └── windows-install-error.md
 ```
+---
+
 ---
 
 # 🎯 Objetivo
@@ -134,21 +145,11 @@ Organizar e documentar o aprendizado sobre **fundamentos de tecnologia da inform
 - Redes de computadores
 - Cloud computing
 - Sistemas operacionais
-- DevOps
-
----
-
-# 📌 Tecnologias e conceitos abordados
-
-- Hardware
-- Redes
-- Cloud Computing
-- Protocolos de Internet
-- Diagnóstico de Sistemas
-- Troubleshooting
+- Diagnóstico de problemas
 
 ---
 
 # 📖 Observação
 
-Este repositório tem fins **educacionais**, servindo como material de estudo e revisão sobre fundamentos da computação.
+Este repositório foi criado como **material de estudo e documentação pessoal**, reunindo conceitos fundamentais para quem deseja trabalhar com infraestrutura, redes ou cloud.
+
