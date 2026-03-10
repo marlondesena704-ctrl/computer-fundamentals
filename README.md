@@ -8,6 +8,15 @@ Os conteúdos foram organizados a partir de uma playlist educacional com **36 v�
 
 # 📚 Conteúdo do Repositório
 
+##
+
+- 📦 [Hardware](hardware/)
+- 🌐 [Redes](redes/)
+- ☁️ [Cloud](cloud/)
+- 🖥️ [Sistemas](sistemas/)
+- 🛠️ [Troubleshooting](troubleshooting/)
+
+
 ## Hardware
 Conceitos sobre componentes físicos do computador.
 
@@ -81,7 +90,7 @@ Este repositório aborda conceitos importantes como:
 - Diagnóstico de problemas
 
 ---
-
+```
 # 🗂 Estrutura do projeto
 computer-fundamentals
 │
@@ -113,7 +122,7 @@ computer-fundamentals
 ├── blue-screen.md
 ├── hardware-mistakes.md
 └── windows-install-error.md
-
+```
 ---
 
 # 🎯 Objetivo
