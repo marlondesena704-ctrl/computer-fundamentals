@@ -16,6 +16,7 @@ Os conteúdos foram organizados a partir de uma playlist educacional com **36 v�
 - 🖥️ [Sistemas](sistemas/)
 - 🛠️ [Troubleshooting](troubleshooting/)
 
+##
 
 ## Hardware
 Conceitos sobre componentes físicos do computador.
