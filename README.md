@@ -84,13 +84,13 @@ Este repositório aborda conceitos importantes como:
 
 # 🗂 Estrutura do projeto
 computer-fundamentals
-│
-├── README.md
-│
-├── hardware
-│   ├── cpu.md
-│   ├── motherboard.md
-│   ├── ram.md
+- │
+- ├── README.md
+- │
+- ├── hardware
+- │   ├── cpu.md
+- │   ├── motherboard.md
+- │   ├── ram.md
 │   ├── storage.md
 │   └── pc-assembly.md
 │
