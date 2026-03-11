@@ -5,6 +5,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/marlondesena704-ctrl/computer-fundamentals)
 ![GitHub forks](https://img.shields.io/github/forks/marlondesena704-ctrl/computer-fundamentals)
 
+![Study](https://img.shields.io/badge/Status-Studying-orange)
+![Documentation](https://img.shields.io/badge/Docs-Markdown-blue)
+![Focus](https://img.shields.io/badge/Focus-Hardware%20%7C%20Systems-lightgrey)
+
 ![Hardware](https://img.shields.io/badge/Hardware-Computer%20Architecture-blue)
 ![Networking](https://img.shields.io/badge/Networking-Network%20Fundamentals-green)
 ![Cloud](https://img.shields.io/badge/Cloud-Computing-orange)
