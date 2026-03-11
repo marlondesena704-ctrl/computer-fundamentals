@@ -1,9 +1,9 @@
 # Computer Fundamentals 💻
 
-![GitHub repo size](https://img.shields.io/github/repo-size/marlondesena704-ctrl/network-cloud-fundamentals)
-![GitHub last commit](https://img.shields.io/github/last-commit/marlondesena704-ctrl/network-cloud-fundamentals)
-![GitHub stars](https://img.shields.io/github/stars/marlondesena704-ctrl/network-cloud-fundamentals?style=social)
-![GitHub forks](https://img.shields.io/github/forks/marlondesena704-ctrl/network-cloud-fundamentals?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/marlondesena704-ctrl/computer-fundamentals)
+![GitHub last commit](https://img.shields.io/github/last-commit/marlondesena704-ctrl/computer-fundamentals)
+![GitHub stars](https://img.shields.io/github/stars/marlondesena704-ctrl/computer-fundamentals)
+![GitHub forks](https://img.shields.io/github/forks/marlondesena704-ctrl/computer-fundamentals)
 
 ![Hardware](https://img.shields.io/badge/Hardware-Computer%20Architecture-blue)
 ![Networking](https://img.shields.io/badge/Networking-Network%20Fundamentals-green)
