@@ -107,45 +107,6 @@ Conteúdos:
 
 ---
 
-# 📁 Estrutura do projeto
-
----
-```
-computer-fundamentals
-│
-├── README.md
-│
-├── hardware
-│ ├── cpu.md
-│ ├── motherboard.md
-│ ├── ram.md
-│ ├── storage.md
-│ └── pc-assembly.md
-│
-├── redes
-│ ├── wifi.md
-│ ├── ip-dhcp.md
-│ ├── network-diagnostics.md
-│ ├── port-forwarding.md
-│ └── protocols.md
-│
-├── cloud
-│ ├── cloud-computing.md
-│ └── cloud-models.md
-│
-├── sistemas
-│ ├── bios-uefi.md
-│ └── disk-partitions.md
-│
-└── troubleshooting
-├── blue-screen.md
-├── hardware-mistakes.md
-└── windows-install-error.md
-```
----
-
----
-
 # 🎯 Objetivo
 
 Organizar e documentar o aprendizado sobre **fundamentos de tecnologia da informação**, criando uma base sólida para estudos em:
